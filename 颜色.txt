@@ -1,5 +1,6 @@
 #ff7496粉
 #ff74977e浅粉
+#A1E6FA蓝色 RGB(161,230,250) 0xFAE6A1
 #6d94ff蓝紫
 #6d94ff98
 #bfbfbf灰
