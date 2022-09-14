@@ -5,6 +5,7 @@
 #6d94ff98
 #bfbfbf灰
 #f1f0ed银白
+#f5f2ec奶白色
 #e7e5e1苗银
 #d4d4d4银箔
 #afb9be灰银
