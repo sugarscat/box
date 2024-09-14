@@ -2,7 +2,7 @@
 
 ## Brand Icon
 
-| Brand     | Colorful                                         | Fill                                       | Outline                                       |
-| --------- | ------------------------------------------------ | ------------------------------------------ | --------------------------------------------- |
-| Bitwarden | ![Bitwarden](./svg/brand/colorful/bitwarden.svg) |                                            |                                               |
-| Facebook  | ![Facebook](./svg/brand/colorful/facebook.svg)   | ![Facebook](./svg/brand/fill/facebook.svg) | ![Facebook](./svg/brand/outline/facebook.svg) |
+| Brand     | Colorful                                     | Fill                                   | Outline                                   |
+| --------- | -------------------------------------------- | -------------------------------------- | ----------------------------------------- |
+| Bitwarden | ![Bitwarden](./brand/colorful/bitwarden.svg) |                                        |                                           |
+| Facebook  | ![Facebook](./brand/colorful/facebook.svg)   | ![Facebook](./brand/fill/facebook.svg) | ![Facebook](./brand/outline/facebook.svg) |
