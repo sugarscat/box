@@ -1,3 +1,4 @@
 # IDE
 .idea/*
+!.idea/icon.svg
 .vscode/*
