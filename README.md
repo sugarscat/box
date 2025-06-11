@@ -1,3 +1,3 @@
-# Icon Archive
+# Box
 
-Where I store icons.
+A place to store miscellaneous items.
